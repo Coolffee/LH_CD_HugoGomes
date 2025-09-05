@@ -7,7 +7,7 @@ gh repo clone Coolffee/LH_CD_HugoGomes
 
 
 
-Para utilizar:
+Para utilizar (Recomendado):
 - Acessar o link: https://colab.research.google.com/drive/1glCwcghZfW03eMbaFzWB_JVnGVf0TATf?usp=sharing
 - Fazer login no google
 - Acessar o notebook pelo Google Collab
@@ -19,3 +19,9 @@ Ou
 
 - Para analisar outros exemplos de filmes, alterar filme_exemplo = {} com as informações necessárias.
 - Se você rodar no seco, o programa vai tentar fazer a previsão da nota do IMDB de The Shawshank Redemption.
+
+
+Arquivos de destaque:
+
+new_movies.csv - Arquivo para introduzir mais dados ao banco, que depois de limpo e feito merge, deu quase 10000 linhas.
+modelo_imdb.pkl - modelo de previsão, foi utilizado Random Forest Regresser
