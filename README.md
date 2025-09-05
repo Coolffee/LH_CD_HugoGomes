@@ -16,6 +16,8 @@ Ou
 - Baixar  LH_CD_HugoGomes.ipynb
 - Abrir pelo VS Code, baixar python e jupyther notebook nas versões mais atualizadas
 - Então rodar tudo
+  
+----
 
 - Para analisar outros exemplos de filmes, alterar filme_exemplo = {} com as informações necessárias.
 - Se você rodar no seco, o programa vai tentar fazer a previsão da nota do IMDB de The Shawshank Redemption.
